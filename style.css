@@ -192,7 +192,7 @@ p{
 /* rop-banner design */
 .top-banner{
     width: 100%;
-    background:url('./images/bg/bg-1.jpg') no-repeat center;
+    background:url('./images/bg/bg-1.png') no-repeat center;
     background-size: cover;
     padding:  16.875rem 0 9.375rem;
 }
@@ -244,7 +244,7 @@ FOOD TYPE SECTION DESIGN
 .story-section{
     width: 100%;
     height: 28.125rem;
-    background: url('./images/bg/bg-2.jpg') no-repeat center;
+    background: url('./images/bg/bg-2.png') no-repeat center;
     background-size: cover;
     padding-top: 100px;
     text-align: center;
@@ -318,7 +318,7 @@ FAQ Section Design
 }
 .book-food{
     width: 100%;
-    background: url('./images/bg/bg-3.jpg') no-repeat center;
+    background: url('./images/bg/bg-3.png') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     background-position:0 71.9125px ;
