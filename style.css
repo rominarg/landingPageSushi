@@ -348,15 +348,17 @@ FAQ Section Design
     border: none;
     border-radius: 0;
     background: transparent;
-    border: 0.187rem solid var(--text-gray);
+    border: 0.187rem solid var(--primary-color);
+    border-radius: 1rem;
     color: var(--black-color);
     margin-left: 200px;
+    transition: border-color 0.3s, color 0.3s;
 }
 .newsletter .form-control:hover,
 .newsletter .form-control:focus{
     outline: none;
     box-shadow: none;
-    border-color: var(--primary-color);
+    border-color: var(--text-gray);
 }
 /**********************
  footer-section design
