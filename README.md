@@ -9,3 +9,9 @@ Tecnologías Utilizadas
 HTML: Lenguaje de marcado para la estructura de la página web.
 CSS: Hojas de estilo para el diseño y la presentación.
 Bootstrap 5: Marco de diseño front-end que facilita el desarrollo web con componentes predefinidos y estilos.
+
+## Tecnologías Utilizadas
+
+- HTML: Lenguaje de marcado para la estructura de la página web.
+- CSS: Hojas de estilo para el diseño y la presentación.
+- Bootstrap 5: Marco de diseño front-end que facilita el desarrollo web con componentes predefinidos y estilos.
