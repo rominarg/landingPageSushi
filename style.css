@@ -309,9 +309,8 @@ Testimonial action design
     padding: 0.3125rem;
 }
 .testimonial-section .carousel-caption p{
-    font-size: 1.3125rem;
-    line-height: 2.0625rem;
-    padding:0 11% 0.625rem ; 
+    font-size: 1rem;
+    padding-top: 20px;
 }
 .testimonial-section .carousel-indicators{
     bottom: 2.8125rem;
