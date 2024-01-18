@@ -421,13 +421,8 @@ form textarea::placeholder{
     color: #fff;
     text-align: center;
     transition: 0.4s;
+    border-radius: 30px;
 }
-
-.boton-formulario .boton-saber-mas:hover{
-    background: var(--primary-color);
-}
-
-
 
 
 /**********************
